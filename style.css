@@ -1,0 +1,36 @@
+
+body{
+    background-color: blueviolet;
+
+}
+#set,#clear{
+    margin: 10px 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}
+#set{
+    background-color: green;
+}
+ #clear{
+    background-color: red;
+ }
+   
+
+li{
+    width: 50%;
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 10px;
+    background-color: white;
+    list-style-type: none;
+    color: black;
+    padding: 8px;
+    text-align: center;
+   
+}
